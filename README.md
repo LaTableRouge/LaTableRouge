@@ -1,8 +1,11 @@
 ### Hi there O_O
 
 I love bread and making websites.
-🍞 My website : https://mlnop.fr
+🍞 My websites: 
+- [Portal](https://mlnop.fr)
+- [Portfolio](https://portfolio.mlnop.fr)
+- [Personal library](https://library.mlnop.fr)
+- [Web dev blog](https://latablerouge.ninja/)
+- [My masterpiece](https://scenery.mlnop.fr/)
+- [Placeholder generator](https://placeholder.mlnop.fr/index.php?size=500/500&watermark=true)
 
-- 💻 I’m currently working on filling my website with my multiples projects
-- 🔭 While doing so i'm thinking of making a javascript library to display the solar system in a 2D view on a webpage
-- 👀 I'm building a website to list all books in my family and with the same structure a website to list all the snippets that I use
