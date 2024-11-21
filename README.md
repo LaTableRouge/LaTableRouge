@@ -27,6 +27,7 @@ I love bread and making websites.
 
 ### Development Resources
 - **[Husky Boilerplate](https://github.com/LaTableRouge/husky-template)**: A template for getting started with Husky in your projects.
+- **[Wordpress theme ViteJS Boilerplate](https://github.com/LaTableRouge/wordpress-vite-config)**: A template for getting started with ViteJS in a Wordpress custom theme.
 
 ### NPM Packages
 - **[seasonCalc](https://github.com/LaTableRouge/seasonsCalc)**: A utility for calculating seasons.
